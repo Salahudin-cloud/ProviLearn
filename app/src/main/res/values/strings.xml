@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">ProviLearn</string>
+    <string name="namaProvinsiCard" translatable="false">Nama Provinsi</string>
+    <string name="logoDeskripsi" translatable="false">Gambar Logo Provinsi</string>
+    <!--   logo splash screen -->
+    <string name="logoName" translatable="false">ProviLearn</string>
+    <string name="sloganName" translatable="false">Belajar tentang Provinsi Indonesia</string>
+
+    <!--  List Activity   -->
+    <string-array name="data_nama_provinsi">
+        <item>Jawa Tengah</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Timur</item>
+        <item>Kalimantan Barat</item>
+        <item>Kalimantan Tengah</item>
+        <item>Kalimantan Selatan</item>
+        <item>Kalimantan Utara</item>
+        <item>Kalimantan Timur</item>
+        <item>Sulawesi Selatan</item>
+        <item>Sulawesi Utara</item>
+    </string-array>
+
+    <string-array name="data_logo_provinsi">
+        <item>https://humas.jatengprov.go.id/foto/1622767670852-Logo%20Provinsi%20Jawa%20Tengah%20(PNG-1080p)%20-%20FileVector69.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Coat_of_arms_of_West_Java.svg/878px-Coat_of_arms_of_West_Java.svg.png</item>
+        <item>https://pertanian.jatimprov.go.id/wp-content/uploads/2019/10/logo-provinsi-jawa-timur.png</item>
+        <item>https://i.pinimg.com/originals/21/d8/3d/21d83d74b592de5250537f12ed67070c.png</item>
+        <item>https://disperkimtan.kalteng.go.id/wp-content/uploads/2017/09/Logo-Provinsi-Kalimantan-Tengah.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Coat_of_arms_of_South_Kalimantan.svg/1200px-Coat_of_arms_of_South_Kalimantan.svg.png</item>
+        <item>https://seeklogo.com/images/K/kalimantan-utara-logo-2A60166D3B-seeklogo.com.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Coat_of_arms_of_East_Kalimantan.svg/1200px-Coat_of_arms_of_East_Kalimantan.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Coat_of_arms_of_South_Sulawesi.svg/1200px-Coat_of_arms_of_South_Sulawesi.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Coat_of_arms_of_North_Sulawesi.svg/800px-Coat_of_arms_of_North_Sulawesi.svg.png</item>
+    </string-array>
+
+    <string-array name="data_nama_ibu_kota_provinsi">
+        <item>Semarang</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+        <item>Pontianak</item>
+        <item>Palangka Raya</item>
+        <item>Banjarbaru</item>
+        <item>Tanjung Selor</item>
+        <item>Samarinda</item>
+        <item>Makassar</item>
+        <item>Manado</item>
+    </string-array>
+
+    <string-array name="data_luas_provinsi">
+        <item>32.800,69 km2</item>
+        <item>35.377,76 km2</item>
+        <item>48.033,00 km2</item>
+        <item>147.037,037 km2</item>
+        <item>153.564,50 km2</item>
+        <item>38.744,00 km2</item>
+        <item>75.467,70 km2</item>
+        <item>127.346,92 km2</item>
+        <item>46.717,48 km2 </item>
+        <item>13.892,47 km2</item>
+    </string-array>
+
+    <string-array name="data_total_penduduk">
+        <item>37.496.035</item>
+        <item>49.405.808</item>
+        <item>41.149.974</item>
+        <item>5.414.540</item>
+        <item>2.741.100</item>
+        <item>4.205.816</item>
+        <item>713.622</item>
+        <item>3.941.766</item>
+        <item>9.225.747</item>
+        <item>2.666.821</item>
+    </string-array>
+
+    <string-array name="data_deskripsi_provinsi">
+       <item>Jawa Tengah secara geografis maupun budaya juga mencakup wilayah Daerah Istimewa Yogyakarta yang masih satu teritorial dengan Provinsi Jawa Tengah. Jawa Tengah bagian tengah dikenal sebagai pusat budaya Jawa. Meskipun demikian di provinsi ini ada pula suku bangsa lain yang memiliki budaya yang berbeda dengan suku Jawa seperti suku Sunda di daerah perbatasan dengan Jawa Barat, sebagian kecil masyarakat Kabupaten Brebes dan Kabupaten Cilacap. Selain itu ada pula warga Tionghoa-Indonesia, Arab-Indonesia dan India-Indonesia sebagai pendatang yang tersebar di seluruh provinsi ini. Sejak tahun 2008, provinsi Jawa Tengah memiliki hubungan kembar dengan provinsi Fujian di Tiongkok.</item>
+       <item>Jawa Barat adalah sebuah provinsi di Indonesia yang terletak di bagian barat pulau Jawa, dengan ibu kota provinsi di Kota Bandung. Jawa Barat berbatasan dengan provinsi Banten dan wilayah ibu kota Jakarta di sebelah barat, Laut Jawa di utara, Provinsi Jawa Tengah di timur, dan Samudera Hindia di sebelah selatan. Bersama dengan Provinsi Banten, Jawa Barat disebut sebagai Tatar Sunda atau Pasundan karena merupakan kampung asli masyarakat Sunda, suku terbesar kedua di Indonesia.</item>
+        <item>Jawa Timur memiliki wilayah terluas di antara enam provinsi di pulau Jawa, dan memiliki jumlah penduduk terbanyak kedua di Indonesia setelah Jawa Barat. Wilayah Provinsi Jawa Timur berbatasan dengan Laut Jawa di sebelah utara, Selat Bali (Provinsi Bali) di sebelah timur, Samudra Hindia di sebelah selatan, serta Provinsi Jawa Tengah di sebelah barat. Wilayah Jawa Timur juga meliputi Pulau Madura, Pulau Bawean, Pulau Kangean, Kepulauan Kangean serta sejumlah pulau-pulau kecil di Laut Jawa yakni: Kepulauan Masalembu, Pulau Sempu dan Nusa Barung.Jawa Timur dikenal sebagai pusat industri dan keuangan kawasan Tengah dan Timur Indonesia,[6] yang memiliki signifikansi perekonomian cukup tinggi, yakni berkontribusi sekitar 15% terhadap Produk Domestik Bruto nasional</item>
+        <item>Kalimantan Barat (disingkat Kalbar) adalah sebuah provinsi di Indonesia, yang berada di pulau Kalimantan, dengan ibu kota atau pusat pemerintahan berada di kota Pontianak.[7] Luas wilayah provinsi Kalimantan Barat adalah 147.307,00 km² (7,53% luas Indonesia).[8] Kalimantan Barat merupakan provinsi terluas keempat di Indonesia setelah Papua, Kalimantan Timur dan Kalimantan Tengah.[9] Pada tahun 2020, penduduk Kalimantan Barat berjumlah 5.414.390 jiwa, dengan kepadatan 37 jiwa/km2.[3]Daerah Kalimantan Barat termasuk salah satu daerah yang dapat dijuluki provinsi "Seribu Sungai". Julukan ini selaras dengan kondisi geografis yang mempunyai ratusan sungai besar dan kecil yang di antaranya dapat dan sering dilayari. Beberapa sungai besar sampai saat ini masih merupakan urat nadi dan jalur utama untuk angkutan daerah pedalaman, walaupun prasarana jalan darat telah dapat menjangkau sebagian besar kecamatan.</item>
+        <item>Kalimantan Tengah (disingkat Kalteng) adalah salah satu provinsi di Indonesia yang terletak di pulau Kalimantan. Ibu kotanya adalah Kota Palangka Raya. Berdasarkan sensus tahun 2010, provinsi ini memiliki populasi 2.202.599 jiwa, yang terdiri atas 1.147.878 laki-laki dan 1.054.721 perempuan. Data BPS Kalimantan Tengah tahun 2023 menunjukkan penduduk provinsi ini tahun 2023 bertambah menjadi 2.741.100 (Laki-laki 1.420.900 jiwa dan perempuan 1.320.200 jiwa).Kalimantan Tengah mempunyai 13 kabupaten dan 1 kota.</item>
+        <item>Kalimantan Selatan (disingkat Kalsel) adalah salah satu provinsi yang berada di pulau Kalimantan, Indonesia. Sejak 16 Maret 2022, ibu kota provinsi Kalimantan Selatan menjadi Kota Banjarbaru menggantikan Kota Banjarmasin. Provinsi ini merupakan rumah bagi etnis Banjar dan memiliki luas 38.744,00 km² dengan populasi pada tahun 2023 berjumlah 4.205.816 jiwa, dan wilayah administrasi terbagi menjadi 11 kabupaten dan 2 kota.DPRD Kalimantan Selatan dengan surat keputusan No. 2 Tahun 1989 tanggal 31 Mei 1989 menetapkan 14 Agustus 1950 sebagai Hari Jadi Provinsi Kalimantan Selatan. Tanggal 14 Agustus 1950 melalui Peraturan Pemerintah RIS No. 21 Tahun 1950, merupakan tanggal dibentuknya Provinsi Kalimantan, setelah pembubaran Republik Indonesia Serikat (RIS), dengan gubernur Dokter Moerjani.Secara historis wilayah Kalimantan Selatan mula-mula dibentuk merupakan wilayah Karesidenan Kalimantan Selatan (dengan Residen Mohammad Hanafiah) di dalam Provinsi Kalimantan itu sendiri. Penduduk Kalimantan Selatan berjumlah 4.205.816 jiwa (2023).</item>
+        <item>Kalimantan Utara (disingkat Kaltara) adalah sebuah provinsi di Indonesia yang terletak di bagian utara Pulau Kalimantan. Provinsi ini berbatasan langsung dengan negara tetangga Malaysia, yaitu negara bagian Sabah dan Sarawak. Pusat pemerintahan Kalimantan Utara saat ini berada di Tanjung Selor, bersama dengan pusat pemerintahan Kabupaten Bulungan.Sebelum pemekaran provinsi Papua Pegunungan, Papua Selatan, Papua Tengah dan Papua Barat Daya, Kalimantan Utara menjadi provinsi termuda di Indonesia, yang disahkan menjadi provinsi dalam rapat paripurna DPR pada tanggal 25 Oktober 2012 berdasarkan Undang-undang Nomor 20 Tahun 2012.</item>
+        <item>Kalimantan Timur (disingkat Kaltim) adalah sebuah provinsi Indonesia di Pulau Kalimantan bagian ujung timur yang berbatasan dengan Sarawak (Malaysia Timur), Kalimantan Utara, Kalimantan Tengah, Kalimantan Selatan, Kalimantan Barat, dan Sulawesi. Luas total Kaltim adalah 127.346,92 km² dan populasi sebesar 3.941.766 jiwa (2020).Kalimantan Timur merupakan wilayah dengan kepadatan penduduk terendah ke empat di Indonesia. Ibu kotanya adalah Kota Samarinda.Provinsi Kalimantan Timur sebelum dimekarkan menjadi Kalimantan Utara merupakan provinsi terluas kedua di Indonesia setelah Papua, dengan luas 194.489 km persegi yang hampir sama dengan Pulau Jawa atau sekitar 6,8% dari total luas wilayah Indonesia.</item>
+        <item>Sulawesi Selatan (disingkat Sulsel, Lontara: ᨔᨘᨒᨓᨙᨔᨗ ᨔᨛᨒᨈ ) adalah sebuah provinsi di semenanjung selatan Sulawesi. Kepulauan Selayar di selatan Sulawesi juga merupakan bagian dari provinsi tersebut. Ibu kota provinsi ini berada di Kota Makassar. Provinsi ini berbatasan dengan Sulawesi Tengah dan Sulawesi Barat di utara, Teluk Bone dan Sulawesi Tenggara di timur, Selat Makassar di barat, dan Laut Flores di selatan.Sensus 2010 memperkirakan jumlah penduduk sebanyak 8.032.551 jiwa yang menjadikan Sulawesi Selatan sebagai provinsi terpadat di pulau itu (46% dari populasi Sulawesi ada di Sulawesi Selatan), dan provinsi terpadat keenam di Indonesia. Pada Sensus 2020 ini telah meningkat menjadi 9.073.509. Suku bangsa utama di Sulawesi Selatan adalah suku Bugis, Makassar, Toraja, dan Mandar. Perekonomian provinsi ini didasarkan pada pertanian, perikanan, dan pertambangan emas , magnesium , besi dan logam lainnya. pinisi adalah sebuah kapal layar tradisional Indonesia bertiang dua, masih digunakan secara luas oleh orang Bugis dan Makassar, sebagian besar untuk tujuan transportasi, kargo, dan penangkapan ikan antar pulau di kepulauan Indonesia.</item>
+        <item>Sulawesi Utara (disingkat Sulut) adalah salah satu provinsi yang terletak di ujung utara Pulau Sulawesi, Indonesia, dengan ibu kota terletak di kota Manado. Sulawesi Utara atau Sulut berbatasan dengan Laut Maluku dan Samudra Pasifik di sebelah timur, Laut Maluku dan Teluk Tomini di sebelah selatan, Laut Sulawesi dan Provinsi Gorontalo di sebelah barat, dan Provinsi Davao Occidental di sebelah utara. Penduduk Sulawesi Utara pada tahun 2022 berjumlah 2.666.821 jiwa, dan luas wilayahnya adalah 13.892,47 km2.Sulawesi Utara memiliki kepulauan dengan jumlah pulau sebanyak 287 pulau dengan 59 di antaranya berpenghuni. Wilayah administratif Sulawesi Utara terbagi menjadi 4 kota dan 11 kabupaten dengan 1.664 desa/kelurahan. Sulawesi Utara terbagi menjadi dua zona yaitu zona selatan yang berupa dataran rendah dan dataran tinggi serta zona utara yang meliputi kepulauan. Zona ekonomi eksklusif Sulawesi Utara mencapai 190.000 km2 dengan pesisir pantai sepanjang 2.395,99 km dan luas hutan mencapai 701. 885 hektare. Wilayah Sulawesi Utara juga memiliki banyak gunung berapi, dikarenakan letaknya yang berada di tepian Lempeng Sunda.</item>
+    </string-array>
+
+</resources>
